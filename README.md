@@ -1,31 +1,65 @@
 <h1 align="center">Hi 👋, I'm Jacob Wambua</h1>
-<h3 align="left">👋 Greetings! I'm a passionate Front-End Developer from the vibrant tech scene in Kenya, embarking on my coding journey since July of last year. My fascination with technology and the vast expanse of the web fuels my creativity. I've swiftly evolved into an intermediate developer, navigating the intricacies of HTML, CSS, and JavaScript to craft visually appealing and functional user interfaces. 🚀 My coding adventure is a dynamic fusion of innovation and authenticity, drawing inspiration from the diverse tapestry of Kenyan culture. From the hustle and bustle of Nairobi, I'm committed to injecting creativity into every project. I believe in the power of responsive design, ensuring a seamless user experience that resonates with both beauty and functionality. 💻 As I navigate the digital landscape, my ultimate goal is to become a Full Stack Developer, seamlessly connecting the dots between front-end finesse and back-end brilliance. Join me on this exciting journey as we code the future together, one line at a time. Let's shape the digital realm with passion and precision! 🌐🚀 #PassionateCoder #KenyanTech #FullStackDreams 🌱 Additionally, I'm more than willing to be guided, collaborate on front-end projects, and embrace opportunities for learning and mentorship. Open to collaboration, I'm eager to contribute my skills while absorbing the wealth of knowledge that the tech community has to offer. Let's connect and build something extraordinary! 💡🤝 #OpenToCollaborate #WillingToLearn #TechEnthusiast</h3>
+<h3 align="center">
+🚀 Front-End Developer | 🌍 Based in Kenya | 💡 Lifelong Learner
+</h3>
+
+<p align="center">
+I'm a passionate Front-End Developer crafting elegant and responsive user interfaces since July of last year. With a solid foundation in HTML, CSS, and JavaScript, I bring creativity and technical expertise to every project. My journey is driven by a fascination with technology and a vision to shape seamless digital experiences.
+</p>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jake9953&label=Profile%20views&color=0e75b6&style=flat" alt="jake9953" /> </p>
+### 👨‍💻 About Me:
+- 🎯 **Goal**: Aspiring to become a Full Stack Developer to bridge the gap between front-end finesse and back-end brilliance.
+- 💡 **Focus**: Responsive design, user-centric development, and creative problem-solving.
+- 🌱 **Currently Learning**: Advanced JavaScript, React.js, and Node.js.
+- 👯 **Open to Collaborate On**: Front-end projects and innovative tech solutions.
+- 🤝 **Seeking Opportunities**: Front-end developer roles, internships, or freelance projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jake9953" alt="jake9953" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/wambuajacobs_o" target="blank"><img src="https://img.shields.io/twitter/follow/wambuajacobs_o?logo=twitter&style=for-the-badge" alt="wambuajacobs_o" /></a> </p>
-
-- 👯 I’m looking to collaborate on **Any frontend project**
-
-- 📫 How to reach me **jacobwambua793@gmail.com**
-
-- ⚡ Fun fact **I think am funny.**
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages & Tools:
 <p align="left">
-<a href="https://twitter.com/wambuajacobs_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wambuajacobs_o" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/jacob-wambua-17a107153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jacob-wambua-17a107153" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jake9953&show_icons=true&locale=en&layout=compact" alt="jake9953" /></p>
+### 🌐 Connect With Me:
+<p align="left">
+  <a href="https://linkedin.com/in/jacob-wambua-17a107153" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://twitter.com/wambuajacobs_o" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="mailto:jacobwambua793@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jake9953&show_icons=true&locale=en" alt="jake9953" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jake9953&" alt="jake9953" /></p>
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jake9953&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jake9953&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake9953&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+</p>
+
+---
+
+### 💡 Fun Fact:
+- I believe humor and creativity make coding even more exciting. Let’s make the digital world awesome, one project at a time! 😄✨
+
+---
+
+### 🚀 Let's Build Something Extraordinary Together:
+If you're looking for a front-end developer passionate about learning and collaboration, let’s connect! Together, we can shape innovative, user-friendly solutions that stand out in the tech world. 
+
+---
+

@@ -84,7 +84,7 @@ Reach out, and let’s create something amazing together!
 ---
 
 ### 🎉 Fun Fact:
-I thrive on the combination of creativity and logic, and when I’m not designing or coding, I’m probably geeking out on tech trends or brewing a fresh cup of coffee ☕.
+I thrive on the combination of creativity and logic, and when I’m not designing or coding, I’m probably checking out on tech trends or making a fresh cup of coffee ☕.
 
 ---
 
